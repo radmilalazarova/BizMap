@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BizDirectory</string>
+
+    <!-- Табови -->
+    <string name="tab_services">Сервиси</string>
+    <string name="tab_fun">Забава</string>
+    <string name="tab_industry">Индустрија</string>
+    <string name="tab_education">Едукација</string>
+
+    <!-- Форма за внес -->
+    <string name="hint_name">Назив на компанија</string>
+    <string name="hint_address">Адреса</string>
+    <string name="hint_latitude">Географска ширина</string>
+    <string name="hint_longitude">Географска должина</string>
+    <string name="hint_email">Контакт е-маил</string>
+    <string name="hint_phone">Телефон</string>
+    <string name="hint_website">Веб страна</string>
+    <string name="label_categories">Категории</string>
+    <string name="cat_industry">Индустрија</string>
+    <string name="cat_fun">Забава</string>
+    <string name="cat_education">Едукација</string>
+    <string name="cat_services">Сервиси</string>
+    <string name="btn_save">ЗАЧУВАЈ</string>
+    <string name="search_hint">Пребарај компанија...</string>
+
+    <!-- Пораки -->
+    <string name="nearby_prefix">Блиску сте до: </string>
+    <string name="no_internet">Нема интернет. Прикажани се зачувани податоци.</string>
+    <string name="saved_success">Компанијата е зачувана!</string>
+    <string name="error_fill_fields">Пополнете ги задолжителните полиња.</string>
+</resources>
